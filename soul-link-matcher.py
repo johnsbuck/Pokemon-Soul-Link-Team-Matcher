@@ -1,5 +1,4 @@
 import csv
-from _collections_abc import MutableSequence
 from enum import Enum
 from typing import List, Optional, Set
 
