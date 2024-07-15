@@ -25,7 +25,6 @@ def main():
 
     # Print Team Options
     print(format_pokemon_team_pairs(test, "Ray", "Shen"))
-    
 
 if __name__ == "__main__":
     main()

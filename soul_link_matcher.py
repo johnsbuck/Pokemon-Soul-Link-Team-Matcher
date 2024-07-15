@@ -86,6 +86,7 @@ def format_pokemon_team_pairs(team_pairs: List[List[PokemonTeam]], p1_name: str 
     
     team_pairs.sort(key=lambda x: len(x[0]), reverse=True)
     size = len(team_pairs[0][0])
+    count = 0
     names = [p1_name, p2_name]
     
     output = "Pokemon Team Sizes: " + str(size) + "\n"
@@ -94,9 +95,15 @@ def format_pokemon_team_pairs(team_pairs: List[List[PokemonTeam]], p1_name: str 
     for pair in team_pairs:
         curr = len(pair[0])
         if size != curr:
+            output += "Total Count: " + str(count) + "\n"
+            output += "--------------------------------\n"
+
             size = curr
+            count = 0
+
             output += "Pokemon Team Sizes: " + str(size) + "\n"
             output += "================================================================\n"
+        count += 1
         for i in range(len(pair)):
             output += names[i] + "\n"
             output += str(pair[i]) + "\n"
