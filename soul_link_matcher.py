@@ -12,10 +12,10 @@ def get_pokemon_teams(pairs: List[List[Pokemon]]) -> List[List[PokemonTeam]]:
         List[List[PokemonTeam]]: The list of all unique pokemon teams separated by the two teams.
     """
     type_set = set([])
-    return _helper(pairs, 0, [], [], type_set, [])
+    return _helper(pairs, 0, PokemonTeam(), PokemonTeam(), type_set, [])
 
 
-def _helper(pairs: List[List[Pokemon]], idx: int, x: List[Pokemon], y: List[Pokemon], type_set: Set[PokemonType], team_pairs: List[List[PokemonTeam]]) -> List[List[PokemonTeam]]:
+def _helper(pairs: List[List[Pokemon]], idx: int, x: PokemonTeam, y: PokemonTeam, type_set: Set[PokemonType], team_pairs: List[List[PokemonTeam]]) -> List[List[PokemonTeam]]:
     """A _helper function for get_pokemon_teams.
 
     Args:
@@ -28,10 +28,10 @@ def _helper(pairs: List[List[Pokemon]], idx: int, x: List[Pokemon], y: List[Poke
 
     Returns:
         List[List[PokemonTeam]]: The output of all unique Pokemon teams per player.
-    """
+    """    
     # Check if we have a full team or are at the end of the pairs.
     if (len(x) == PokemonTeam.MAX_POKEMON or idx == len(pairs)) and _is_team_unique(x, team_pairs, 0) and _is_team_unique(y, team_pairs, 1):
-        team_pairs.append([PokemonTeam(x), PokemonTeam(y)])
+        team_pairs.append([x[:], y[:]])
         return team_pairs
 
     # Search through each pair for a typing that wasn't used.
@@ -58,7 +58,7 @@ def _helper(pairs: List[List[Pokemon]], idx: int, x: List[Pokemon], y: List[Poke
     
     # If there is no way to add more pokemon with our current setup, add the current roster.
     if not found_addition and len(x) > 0 and _is_team_unique(x, team_pairs, 0) and _is_team_unique(y, team_pairs, 1):
-        team_pairs.append([PokemonTeam(x), PokemonTeam(y)])
+        team_pairs.append([x[:], y[:]])
 
     return team_pairs
 
@@ -75,7 +75,7 @@ def _is_team_unique(x: PokemonTeam, team_pairs: List[List[PokemonTeam]], idx: in
     """
     check = set(x)
     for pair in team_pairs:
-        temp = set(pair[idx]._team)
+        temp = set(pair[idx])
         if len(check - temp) == 0:
             return False
     return True
