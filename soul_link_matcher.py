@@ -177,7 +177,7 @@ def _is_team_pair_unique(x: List[PokemonType], y: List[PokemonType], team_pairs:
         team_pairs (List[List[List[PokemonType]]]): The list of team types that we are pulling from.
 
     Returns:
-        bool: Is the pokemon team (x) unique among the other generated teams?
+        bool: Are the pokemon teams unique among the other generated teams?
     """
     check = set((a, b) for a, b in zip(x, y))
     for pair in team_pairs:
