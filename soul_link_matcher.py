@@ -33,8 +33,9 @@ def _helper(pairs: List[PokemonPair], idx: int, x: PokemonTeam, y: PokemonTeam, 
         List[List[PokemonTeam]]: The output of all unique Pokemon teams per player.
     """    
     # Check if we have a full team or are at the end of the pairs.
-    if (len(x) == PokemonTeam.MAX_POKEMON or idx == len(pairs)) and _is_team_unique(x, team_pairs, 0) and _is_team_unique(y, team_pairs, 1):
-        team_pairs.append([x[:], y[:]])
+    if len(x) == PokemonTeam.MAX_POKEMON or idx == len(pairs):
+        if _is_team_unique(x, team_pairs, 0) and _is_team_unique(y, team_pairs, 1):
+            team_pairs.append([x[:], y[:]])
         return team_pairs
 
     # Search through each pair for a typing that wasn't used.
@@ -125,7 +126,7 @@ def get_pokemon_teams_by_type(pairs: List[PokemonPair]) -> List[List[List[List[P
     for pair in pairs:
         types[pair[0].type.value][pair[1].type.value].append(pair)
     type_set = set([])
-    type_listings = _helper_by_types(types, 0, [], [], type_set, [])
+    type_listings = _helper_by_type(types, 0, [], [], type_set, [])
     output = []
     for team_pair in type_listings:
         output.append([[list(zip(*types[team_pair[0][i].value][team_pair[1][i].value]))[0] for i in range(len(team_pair[0]))],
@@ -133,16 +134,19 @@ def get_pokemon_teams_by_type(pairs: List[PokemonPair]) -> List[List[List[List[P
     return output
 
 
-def _helper_by_types(type_grid: List[List[PokemonPair]], idx: int, x: List[PokemonType], y: List[PokemonType], type_set: Set[PokemonType], team_pairs: List[List[List[PokemonType]]]) -> List[List[List[PokemonType]]]:
-    if len(x) == PokemonTeam.MAX_POKEMON:
-        team_pairs.append([x[:], y[:]])
+def _helper_by_type(type_grid: List[List[PokemonPair]], idx: int, x: List[PokemonType], y: List[PokemonType], type_set: Set[PokemonType], team_pairs: List[List[List[PokemonType]]]) -> List[List[List[PokemonType]]]:
+    if len(x) == PokemonTeam.MAX_POKEMON or idx == len(type_grid):
+        if _is_team_pair_unique(x, y, team_pairs):
+            team_pairs.append([x[:], y[:]])
         return team_pairs
     
     found_addition = False
     for i in range(idx, len(PokemonType)):
         x_type = PokemonType(i)
+        if x_type in type_set:
+            continue
         for y_type in PokemonType:
-            if x_type == y_type or x_type in type_set or y_type in type_set or len(type_grid[x_type.value][y_type.value]) == 0:
+            if x_type == y_type or y_type in type_set or len(type_grid[x_type.value][y_type.value]) == 0:
                 continue
             found_addition = True
 
@@ -151,18 +155,36 @@ def _helper_by_types(type_grid: List[List[PokemonPair]], idx: int, x: List[Pokem
             x.append(x_type)
             y.append(y_type)
             
-            _helper_by_types(type_grid, i+1, x, y, type_set, team_pairs)
+            _helper_by_type(type_grid, i+1, x, y, type_set, team_pairs)
             
             x.pop()
             y.pop()
             type_set.discard(x_type)
             type_set.discard(y_type)
             
-    if not found_addition and len(x) > 0 and _is_team_unique(x, team_pairs, 0) and _is_team_unique(y, team_pairs, 1):
+    if not found_addition and len(x) > 0 and _is_team_pair_unique(x, y, team_pairs):
         team_pairs.append([x[:], y[:]])
         
     return team_pairs
-    
+
+
+def _is_team_pair_unique(x: List[PokemonType], y: List[PokemonType], team_pairs: List[List[List[PokemonType]]]) -> bool:
+    """Checks if a given pokemon team is not a sub-team of an already existing team.
+
+    Args:
+        x (List[PokemonType]): Player 1's pokemon team types we are testing for its uniqueness.
+        y (List[PokemonType]): Player 2's pokemon team types we are testing for its uniqueness.
+        team_pairs (List[List[List[PokemonType]]]): The list of team types that we are pulling from.
+
+    Returns:
+        bool: Is the pokemon team (x) unique among the other generated teams?
+    """
+    check = set((a, b) for a, b in zip(x, y))
+    for pair in team_pairs:
+        if len(check - set(zip(*pair))) == 0:
+            return False
+    return True
+
 
 def format_pokemon_team_pairs_by_type(team_pairs: List[List[List[List[Pokemon]]]], p1_name: str = "Ray", p2_name: str = "Shen", min_size: int = 0, pokemon_name_width: int = 10, type_name_width: int = 8) -> str:
     if len(team_pairs) == 0:
