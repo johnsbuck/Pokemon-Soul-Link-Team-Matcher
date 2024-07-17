@@ -108,4 +108,6 @@ def format_pokemon_team_pairs(team_pairs: List[List[PokemonTeam]], p1_name: str 
             output += names[i] + "\n"
             output += str(pair[i]) + "\n"
         output += "--------------------------------\n"
+    output += "Total Count: " + str(count) + "\n"
+    output += "--------------------------------\n"
     return output
