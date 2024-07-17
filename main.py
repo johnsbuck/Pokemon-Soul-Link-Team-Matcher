@@ -1,7 +1,7 @@
 import csv
 from typing import List
 from pokemon import Pokemon
-from soul_link_matcher import get_pokemon_teams, format_pokemon_team_pairs
+from soul_link_matcher import get_pokemon_teams, format_pokemon_team_pairs, get_pokemon_teams_by_type, format_pokemon_team_pairs_by_type
 
 
 def parse_csv(file: str, header: bool = False) -> List[List[str]]:
@@ -21,10 +21,10 @@ def main():
     test = parse_csv("pokemon.csv")
     
     # Get every Pokemon team with the Soul Link pairs
-    test = get_pokemon_teams(test)
+    test = get_pokemon_teams_by_type(test)
 
     # Print Team Options
-    print(format_pokemon_team_pairs(test, "Ray", "Shen"))
+    print(format_pokemon_team_pairs_by_type(test, "Ray", "Shen"))
 
 if __name__ == "__main__":
     main()
