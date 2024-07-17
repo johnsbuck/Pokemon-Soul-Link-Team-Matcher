@@ -56,3 +56,5 @@ dist/
 
 # Custom
 gitignore*/
+search.txt
+test.txt
