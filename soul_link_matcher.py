@@ -1,4 +1,4 @@
-from typing import List, Set, Annotated
+from typing import Annotated, List, Set, Tuple 
 from pokemon import Pokemon, PokemonTeam, PokemonType
 
 
@@ -126,7 +126,7 @@ def get_pokemon_teams_by_type(pairs: List[PokemonPair]) -> List[List[List[List[P
     for pair in pairs:
         types[pair[0].type.value][pair[1].type.value].append(pair)
     type_set = set([])
-    type_listings = _helper_by_type(types, 0, [], [], type_set, [])
+    type_listings = _helper_by_type(types, 0, [], [], type_set, [], [])
     output = []
     for team_pair in type_listings:
         output.append([[list(zip(*types[team_pair[0][i].value][team_pair[1][i].value]))[0] for i in range(len(team_pair[0]))],
@@ -134,10 +134,11 @@ def get_pokemon_teams_by_type(pairs: List[PokemonPair]) -> List[List[List[List[P
     return output
 
 
-def _helper_by_type(type_grid: List[List[PokemonPair]], idx: int, x: List[PokemonType], y: List[PokemonType], type_set: Set[PokemonType], team_pairs: List[List[List[PokemonType]]]) -> List[List[List[PokemonType]]]:
+def _helper_by_type(type_grid: List[List[PokemonPair]], idx: int, x: List[PokemonType], y: List[PokemonType], type_set: Set[PokemonType], team_pairs: List[List[List[PokemonType]]], pair_check: List[Set[Tuple[PokemonType, PokemonType]]]) -> List[List[List[PokemonType]]]:
     if len(x) == PokemonTeam.MAX_POKEMON or idx == len(type_grid):
-        if _is_team_pair_unique(x, y, team_pairs):
+        if _is_team_pair_unique(x, y, pair_check):
             team_pairs.append([x[:], y[:]])
+            pair_check.append(set((a, b) for a, b in zip(x, y)))
         return team_pairs
     
     found_addition = False
@@ -155,20 +156,21 @@ def _helper_by_type(type_grid: List[List[PokemonPair]], idx: int, x: List[Pokemo
             x.append(x_type)
             y.append(y_type)
             
-            _helper_by_type(type_grid, i+1, x, y, type_set, team_pairs)
+            _helper_by_type(type_grid, i+1, x, y, type_set, team_pairs, pair_check)
             
             x.pop()
             y.pop()
             type_set.discard(x_type)
             type_set.discard(y_type)
             
-    if not found_addition and len(x) > 0 and _is_team_pair_unique(x, y, team_pairs):
+    if not found_addition and len(x) > 0 and _is_team_pair_unique(x, y, pair_check):
         team_pairs.append([x[:], y[:]])
+        pair_check.append(set((a, b) for a, b in zip(x, y)))
         
     return team_pairs
 
 
-def _is_team_pair_unique(x: List[PokemonType], y: List[PokemonType], team_pairs: List[List[List[PokemonType]]]) -> bool:
+def _is_team_pair_unique(x: List[PokemonType], y: List[PokemonType], pair_check: List[Set[Tuple[PokemonType, PokemonType]]]) -> bool:
     """Checks if a given pokemon team is not a sub-team of an already existing team.
 
     Args:
@@ -180,8 +182,8 @@ def _is_team_pair_unique(x: List[PokemonType], y: List[PokemonType], team_pairs:
         bool: Are the pokemon teams unique among the other generated teams?
     """
     check = set((a, b) for a, b in zip(x, y))
-    for pair in team_pairs:
-        if len(check - set(zip(*pair))) == 0:
+    for pair in pair_check:
+        if len(check - pair) == 0:
             return False
     return True
 
