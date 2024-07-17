@@ -195,6 +195,7 @@ def format_pokemon_team_pairs_by_type(team_pairs: List[List[List[List[Pokemon]]]
     team_pairs.sort(key=lambda x: len(x[0]), reverse=True)
     size = len(team_pairs[0][0])
     count = 0
+    unique_type_count = 0
     names = [p1_name, p2_name]
     
     output = "Pokemon Team Sizes: " + str(size) + "\n"
@@ -203,11 +204,14 @@ def format_pokemon_team_pairs_by_type(team_pairs: List[List[List[List[Pokemon]]]
     for pair in team_pairs:
         curr = len(pair[0])
         if size != curr:
-            output += "Total Count: " + str(count) + "\n"
+            output += "Total Possible Teams: " + str(count) + "\n"
+            output += "Total Unique Team Types: " + str(unique_type_count) + "\n"
             output += "--------------------------------\n"
 
             size = curr
             count = 0
+            unique_type_count = 0
+
             
             if size < min_size:
                 return output
@@ -215,6 +219,7 @@ def format_pokemon_team_pairs_by_type(team_pairs: List[List[List[List[Pokemon]]]
             output += "Pokemon Team Sizes: " + str(size) + "\n"
             output += "================================================================\n"
         team_count = 1
+        unique_type_count += 1
         
         # Create strings of each team pair
         for i in range(len(pair)):
@@ -232,7 +237,8 @@ def format_pokemon_team_pairs_by_type(team_pairs: List[List[List[List[Pokemon]]]
             output += "Team Count: " + str(team_count) + "\n\n"
         count += team_count
         output += "--------------------------------\n"
-    output += "Total Count: " + str(count) + "\n"
+    output += "Total Possible Teams: " + str(count) + "\n"
+    output += "Total Unique Team Types: " + str(unique_type_count) + "\n"
     output += "--------------------------------\n"
     return output
         
