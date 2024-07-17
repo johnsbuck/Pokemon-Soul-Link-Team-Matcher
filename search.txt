@@ -1,0 +1,2252 @@
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Bug     : Heracross 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Water   : Golduck   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Wingull   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Surskit   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Graveler  
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Grass   : Gloom     
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Bug     : Heracross 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Water   : Golduck   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Wingull   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Surskit   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Rock    : Relicanth 
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Dark    : Shiftry   
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Weedle     | Butterfree
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Rock    : Geodude    | Sudowoodo 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Heracross 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Water   : Golduck   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Heracross 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Water   : Golduck   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Wingull   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Surskit   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Wingull   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Surskit   
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Grass   : Tangela    | Ivysaur   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Bug     : Pinsir     | Ariados   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Grass   : Tangela    | Ivysaur   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Bug     : Pinsir     | Ariados   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Poison  : Muk       
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Diglett   
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Heracross 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Water   : Golduck   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Wingull   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Surskit   
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Heracross 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Water   : Golduck   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Bug     : Venonat   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Ice     : Glaile    
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Water   : Wingull   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Surskit   
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Graveler  
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Grass   : Gloom     
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Relicanth 
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Dark    : Shiftry   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Relicanth 
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Dark    : Shiftry   
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Relicanth 
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Dark    : Shiftry   
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Weedle     | Butterfree
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Rock    : Geodude    | Sudowoodo 
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Venonat   
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Dragon  : Altaria   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ice     : Glaile    
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Water   : Tentacruel
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Steel   : Aggron    
+Fire    : Magby      | Moltres   
+Grass   : Tangela    | Ivysaur   
+Dragon  : Altaria   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Fighting: Makuhita  
+Electric: Mareep     | Electabuzz
+Bug     : Pinsir     | Ariados   
+Water   : Tentacruel
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Graveler  
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Grass   : Gloom     
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Graveler  
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Grass   : Gloom     
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Relicanth 
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Dark    : Shiftry   
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Rock    : Relicanth 
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Dark    : Shiftry   
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Sableye   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Rock    : Pupitar   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Ground  : Flygon    
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Tyrannitar
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Ledyba    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Grass   : Bellsprout
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Water   : Corphish  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Dark    : Mightyena 
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Rock    : Corsola   
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Grass   : Tangela    | Ivysaur   
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Ground  : Cubone    
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Bug     : Pinsir     | Ariados   
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Weedle     | Butterfree
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Rock    : Geodude    | Sudowoodo 
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Bug     : Weedle     | Butterfree
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Rock    : Geodude    | Sudowoodo 
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Steel   : Jirachi   
+Fire    : Magby      | Moltres   
+Grass   : Bayleaf   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Bug     : Beautifly 
+Electric: Mareep     | Electabuzz
+Water   : Lanturn   
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Fire    : Magby      | Moltres   
+Water   : Qwilfish  
+Grass   : Tangela    | Ivysaur   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Electric: Mareep     | Electabuzz
+Fighting: Meditite  
+Bug     : Pinsir     | Ariados   
+Ground  : Gligar    
+
+EOM--------------------------------EOM
+Ray
+Normal  : Noctowl    | Porygon2  
+Fire    : Magby      | Moltres   
+Water   : Starmie   
+Grass   : Tangela    | Ivysaur   
+Dark    : Houndour  
+
+EOP----EOP
+Shen
+Psychic : Celebi     | Mew       
+Electric: Mareep     | Electabuzz
+Steel   : Metang    
+Bug     : Pinsir     | Ariados   
+Ground  : Gligar    
+
+EOM--------------------------------EOM
