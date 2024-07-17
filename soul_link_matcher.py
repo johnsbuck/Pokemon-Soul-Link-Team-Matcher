@@ -66,7 +66,7 @@ def _helper(pairs: List[PokemonPair], idx: int, x: PokemonTeam, y: PokemonTeam, 
     return team_pairs
 
 
-def _is_team_unique(x: PokemonTeam, team_pairs: List[List[PokemonTeam]], idx: int) -> bool:
+def _is_team_unique(x: PokemonTeam | List[PokemonType], team_pairs: List[List[PokemonTeam]] | List[List[List[PokemonType]]], idx: int) -> bool:
     """Checks if a given pokemon team is not a sub-team of an already existing team.
 
     Args:
@@ -79,8 +79,7 @@ def _is_team_unique(x: PokemonTeam, team_pairs: List[List[PokemonTeam]], idx: in
     """
     check = set(x)
     for pair in team_pairs:
-        temp = set(pair[idx])
-        if len(check - temp) == 0:
+        if len(check - set(pair[idx])) == 0:
             return False
     return True
 
@@ -159,10 +158,11 @@ def _helper_by_types(type_grid: List[List[PokemonPair]], idx: int, x: List[Pokem
             type_set.discard(x_type)
             type_set.discard(y_type)
             
-    if not found_addition and len(x) > 0:
+    if not found_addition and len(x) > 0 and _is_team_unique(x, team_pairs, 0) and _is_team_unique(y, team_pairs, 1):
         team_pairs.append([x[:], y[:]])
         
     return team_pairs
+    
 
 def format_pokemon_team_pairs_by_type(team_pairs: List[List[List[List[Pokemon]]]], p1_name: str = "Ray", p2_name: str = "Shen", min_size: int = 0, pokemon_name_width: int = 10, type_name_width: int = 8) -> str:
     if len(team_pairs) == 0:
