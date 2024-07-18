@@ -20,8 +20,8 @@ def get_player_picks() -> List[str]:
 
 
 def get_regex(player: str, pokes: List[str]) -> str:
-    GENERIC_TEAM_PATTERN = r"[a-z|A-Z|:|\||\n|\s|\d]*"
-    END_TEAM_PATTERN = r"[a-z|A-Z|:|\||\n|\s]*"
+    GENERIC_TEAM_PATTERN = r"[a-z|A-Z|:|\||\n|\s|\d|-|']*"
+    END_TEAM_PATTERN = r"[a-z|A-Z|:|\||\n|\s|-|']*"
     TEAM_END = r"\n\n"
     
     player_regex = r"%s\n" % player
