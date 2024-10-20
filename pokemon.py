@@ -1,30 +1,47 @@
-from _collections_abc import MutableSequence
-from enum import Enum
+"""Pokemon information and data structures."""
+
 from typing import List, Optional, Generator, override, TypeVar, Iterator, Generic
+from enum import Enum, EnumMeta
+from _collections_abc import MutableSequence
 
 
-class PokemonType(Enum):
+class CaseIgnoreEnumMeta(EnumMeta):
+    """Updates EnumMeta to ignore case sensitivity for getting enumerations.
+    """
+
+    def __getitem__(cls, name: str):
+        """Gets an enum based on case-insensitive name given.
+
+        Args:
+            name (str): The name of the enum to return.
+        """
+        return super().__getitem__(name.upper())
+
+
+class PokemonType(Enum, metaclass=CaseIgnoreEnumMeta):
+    """Types for defining different Pokemon
+    """
     Normal = 0
-    Fighting = 1
-    Flying = 2
-    Poison = 3
-    Ground = 4
-    Rock = 5
-    Bug = 6
-    Ghost = 7
-    Steel = 8
-    Fire = 9
-    Water = 10
-    Grass = 11
-    Electric = 12
-    Psychic = 13
-    Ice = 14
-    Dragon = 15
-    Dark = 16
-    Fairy = 17
+    FIGHTING = 1
+    FLYING = 2
+    POISON = 3
+    GROUND = 4
+    ROCK = 5
+    BUG = 6
+    GHOST = 7
+    STEEL = 8
+    FIRE = 9
+    WATER = 10
+    GRASS = 11
+    ELECTRIC = 12
+    PSYCHIC = 13
+    ICE = 14
+    DRAGON = 15
+    DARK = 16
+    FAIRY = 17
 
     def __str__(self):
-        return self.name
+        return self.name.title()
 
     def __repr__(self):
         return self.__str__()
@@ -98,7 +115,7 @@ class Team(MutableSequence, Generic[T]):
             team (Iterator): An interator
 
         Returns:
-            Team: _description_
+            Team: The collection of Pokemon collected by the Iterator.
         """
         check_team = list(team)
         if len(check_team) > Team.MAX_POKEMON:

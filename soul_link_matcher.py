@@ -38,6 +38,7 @@ def _helper(
         pairs: List[PokemonPair],
         idx: int, x: Team, y: Team, type_set: Set[PokemonType],
         team_pairs: LinkedTrainerList[Pokemon]) -> LinkedTrainerList[Pokemon]:
+    # pylint: disable=too-many-arguments
     """A _helper function for get_pokemon_teams.
 
     Args:
@@ -201,6 +202,7 @@ def _helper_by_type(
         team_pairs: LinkedTrainerList,
         pair_check: List[Set[Tuple[PokemonType, PokemonType]]],
         idx: int = 0) -> LinkedTrainerList[List[Pokemon]]:
+    # pylint: disable=too-many-arguments
     """Gets all possible Pokemon type team combinations.
 
     Args:
@@ -217,7 +219,8 @@ def _helper_by_type(
         idx (int, optional): The current PokemonType we are checking. Defaults to 0.
 
     Returns:
-        LinkedTrainerList[List[Pokemon]]: The list of possible Pokemon type teams between the two trainers.
+        LinkedTrainerList[List[Pokemon]]: The list of possible Pokemon type
+            teams between the two trainers.
     """
     if len(x) == Team.MAX_POKEMON or idx == len(type_grid):
         if _is_team_pair_unique(x, y, pair_check):
@@ -279,7 +282,7 @@ def _is_team_pair_unique(
 
 def format_pokemon_team_pairs_by_type(
         team_pairs: LinkedTrainerList[List[Pokemon]],
-        p1_name: str = "Ray", p2_name: str = "Shen", min_size: int = 0,
+        names: Annotated[List[str], Size(2)], min_size: int = 0,
         pokemon_name_width: int = 10, type_name_width: int = 8) -> str:
     """Formats a pair of Pokemon soul-linked trainers' possible teams.
 
@@ -297,12 +300,11 @@ def format_pokemon_team_pairs_by_type(
     """
     if len(team_pairs) == 0:
         return ""
-
     team_pairs.sort(key=lambda x: len(x[0]), reverse=True)
+
     size = len(team_pairs[0][0])
     count = 0
     unique_type_count = 0
-    names = [p1_name, p2_name]
 
     output = "Pokemon Team Sizes: " + str(size) + "\n"
     output += "================================================================\n"

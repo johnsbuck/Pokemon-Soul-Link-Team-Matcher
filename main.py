@@ -38,7 +38,7 @@ def main():
     test = get_pokemon_teams_by_type(test)
 
     # Print Team Options
-    text = format_pokemon_team_pairs_by_type(test, "Ray", "Shen")
+    text = format_pokemon_team_pairs_by_type(test, ["Ray", "Shen"])
     print(text)
 
     with open("test.txt", "w+", encoding="utf-8") as f:
