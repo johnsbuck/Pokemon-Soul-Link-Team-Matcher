@@ -14,9 +14,7 @@ class Size:
 
 
 PokemonPair = Annotated[List[Pokemon], Size(2)]
-
-TrainerTeamList = List[Team[T]]
-LinkedTrainerList = Annotated[List[TrainerTeamList[T]], Size(2)]
+LinkedTrainerList = Annotated[List[List[Team[T]]], Size(2)]
 
 
 def get_pokemon_teams(pairs: List[PokemonPair]) -> LinkedTrainerList[Pokemon]:
