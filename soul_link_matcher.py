@@ -172,7 +172,8 @@ def get_pokemon_teams_by_type(pairs: List[PokemonPair]) -> LinkedTrainerList[Lis
     types = [[[] for _ in range(len(PokemonType))]
              for _ in range(len(PokemonType))]
     for pair in pairs:
-        types[pair[0].poke_type.value][pair[1].poke_type.value].append(pair)
+        if pair[2]:
+            types[pair[0].poke_type.value][pair[1].poke_type.value].append(pair)
 
     # Get all possible team combinations by type
     type_set = set([])

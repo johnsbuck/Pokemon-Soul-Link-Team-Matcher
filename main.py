@@ -23,8 +23,8 @@ def parse_csv(file: str, header: bool = False) -> List[List[str]]:
             if header:
                 header = False
                 continue
-            output.append([Pokemon(line[0], line[1]),
-                          Pokemon(line[2], line[3])])
+            output.append([Pokemon(line[0], line[1]), Pokemon(line[2], line[3]),
+                          len(line) == 4 or line[4].upper() == "ALIVE"])
     return output
 
 
