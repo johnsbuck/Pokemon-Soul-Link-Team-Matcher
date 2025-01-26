@@ -21,7 +21,7 @@ class CaseIgnoreEnumMeta(EnumMeta):
 class PokemonType(Enum, metaclass=CaseIgnoreEnumMeta):
     """Types for defining different Pokemon
     """
-    Normal = 0
+    NORMAL = 0
     FIGHTING = 1
     FLYING = 2
     POISON = 3
